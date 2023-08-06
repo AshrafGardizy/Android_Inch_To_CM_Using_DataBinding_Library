@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InchesToCm</string>
+    <string name="button_string">Convert</string>
+</resources>
